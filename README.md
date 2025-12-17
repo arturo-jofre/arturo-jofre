@@ -1,5 +1,5 @@
 
-- <h1 align="center">Hi 👋, I'm Arturo Jofré</h1>
+<h1 align="center">Hi 👋, I'm Arturo Jofré</h1>
 <h3 align="center">Product Designer & frontend developer from Chile</h3>
 
 - I’m currently learning **Svelte & React**
